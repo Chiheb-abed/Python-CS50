@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: when i run sort1 on a reversed50000 it took 0m11,054s which is the worst case "O(n²) — Ω(n)" and when i ran him in sorted it took 0m2,814s which is the fastest
+
+sort2 uses: Merge
+
+How do you know?: when i run sort2 on a reversed50000 it took 0m3,011s which is the best outcome "Θ(n log n)" and when i ran him in sorted50000 it took 0m3,376s which is the second fastest and it's almost the same as the first outcome.
+
+sort3 uses: selection sort
+
+How do you know?: when i run sort2 on a reversed50000 it took 0m5,289s which is "Θ(n²)" and when i ran him in sorted50000 it took 0m4,123s which is the slowest
