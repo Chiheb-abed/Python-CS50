@@ -1,0 +1,20 @@
+html:
+<h2></h2>
+<div></div>
+<ol></ol>
+<li></li>
+<table></table>
+<tr></tr>
+<th></th>
+<a></a>
+<p></p>
+<span></span>
+css:
+background-image
+border-radius
+object-fit
+dusplay
+justify-content
+gap
+javascript:
+i used javascript to link email so when somone hit the send i will receive his email most of my pages are bootstrap for responsive design
