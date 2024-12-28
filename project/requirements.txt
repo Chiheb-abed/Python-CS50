@@ -1,0 +1,3 @@
+pip insatll sys
+pip install Rich
+pip install pyfiglet
